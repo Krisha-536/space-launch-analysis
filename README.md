@@ -21,3 +21,10 @@ python analysis.py
 
 ## Notes
 This was mainly to get comfortable with working on real datasets and visualizing them.
+
+## Sample Outputs
+![Bar Chart](bar1.png)
+![Pie Chart](pie.png)
+![Bar Chart](bar2.png)
+![Trend](trend.png)
+![Bar Chart](bar3.png)
